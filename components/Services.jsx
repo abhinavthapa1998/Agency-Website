@@ -16,12 +16,9 @@ const Services = ({ services }) => {
                 <span className={style.cat}>{service.title}</span>
                 <div className={style.media}>
                   {service.video ? (
-                    <video
-                      className={style.video}
-                      src={`/img/${service.video}`}
-                      autoPlay
-                      loop
-                    />
+                    <video className={style.video} autoPlay loop>
+                      <source src={`/img/${service.video}`}></source>
+                    </video>
                   ) : (
                     <Image
                       src={`${process.env.NEXT_PUBLIC_URL}/img/${service.photo}`}
