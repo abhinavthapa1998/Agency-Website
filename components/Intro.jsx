@@ -1,4 +1,5 @@
 import styles from "../styles/Intro.module.css";
+import Circle from "../components/Circle";
 import Image from "next/image";
 const Intro = () => {
   return (
@@ -17,14 +18,7 @@ const Intro = () => {
         <button className={styles.button}>DISCOVER</button>
       </div>
       <div className="styles.card">
-        <Image
-          src="/img/Avocado.png"
-          width="100%"
-          height="100%"
-          layout="fill"
-          objectFit="cover"
-          alt=""
-        />
+        <Image src="/img/Avocado.png" layout="fill" objectFit="cover" alt="" />
       </div>
     </div>
   );
