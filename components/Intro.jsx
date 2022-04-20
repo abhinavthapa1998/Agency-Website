@@ -14,8 +14,7 @@ const Intro = () => {
           <span className={style.brandName}>DEVISE</span> DIGITAL PRODUCT AGENCY
         </h1>
         <p className={style.desc}>
-          Create live segments and target the right people for messages based on
-          their behaviors.
+          Creating industry standard products for your next venture.
         </p>
         <button className={style.button}>DISCOVER</button>
       </div>

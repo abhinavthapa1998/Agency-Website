@@ -3,11 +3,11 @@ export const data = [
     id: 1,
     name: "design",
     title: "Design",
-    desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+    desc: "We give your ideas a fresh and unforgettable look.",
     video: "design.mp4",
     photo: "asdasd.png",
     longDesc:
-      "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+      "We give you ideas a fresh and unforgettable look that makes your buisness look professional and attract much more clients. We're happy to build it for you",
     images: [
       {
         id: 1,
@@ -39,11 +39,11 @@ export const data = [
     id: 2,
     name: "development",
     title: "Development",
-    desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+    desc: "Looking for a SEO friendly, fast and responsive website? We've got you covered",
     video: "development.mp4",
     photo: "dev.jpeg",
     longDesc:
-      "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+      "Our team consists of dedicated Next.js, React.js, Angular Developers that will help bring your buisness online and provide continued support throughout.",
     images: [
       {
         id: 1,
@@ -75,11 +75,11 @@ export const data = [
     id: 3,
     name: "production",
     title: "Production",
-    desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+    desc: "Your production needs are our priority",
     video: "production.mp4",
     photo: "production.jpeg",
     longDesc:
-      "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+      "We have experts in production and post production with years of experience that will help get you the RAW footages correct and on point for further use.",
     images: [
       {
         id: 1,
@@ -111,11 +111,11 @@ export const data = [
     id: 4,
     name: "photography",
     title: "Photography",
-    desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+    desc: "Perfect moment? We can capture it",
     video: "photography.mp4",
     photo: "photography.jpeg",
     longDesc:
-      "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+      "Our photography team is one of the best in the industry, and will work swiftly to get the shots right for your buisness needs and help create a more professional outlook",
     images: [
       {
         id: 1,
@@ -150,8 +150,7 @@ export const users = [
     id: 1,
     logo: "yahoo.png",
     avatar: "user1.jpeg",
-    comment:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Utconsectetur veniam fugiat labore quaerat possimus laudantium.",
+    comment: "Some of the best developers I have seen in the industry",
     name: "Harold Brown",
     title: "Executive Manager",
   },
@@ -160,7 +159,7 @@ export const users = [
     logo: "google.png",
     avatar: "user2.jpeg",
     comment:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Utconsectetur veniam fugiat labore quaerat possimus laudantium.",
+      "The level of professionalism is unmatched. Highly recommend Devise.",
     name: "Anna Taylor",
     title: "HR Manager",
   },
@@ -169,7 +168,7 @@ export const users = [
     logo: "facebook.png",
     avatar: "user3.jpeg",
     comment:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Utconsectetur veniam fugiat labore quaerat possimus laudantium.",
+      "The team is very accomodating and can provide prototypes in a matter of hours. Extremely happy with their work",
     name: "James Garry",
     title: "UI Designer",
   },
