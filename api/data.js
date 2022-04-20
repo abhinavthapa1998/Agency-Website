@@ -4,7 +4,7 @@ export const data = [
     name: "design",
     title: "Design",
     desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
-    video: "Avocado.mp4",
+    video: "design.mp4",
     photo: "asdasd.png",
     longDesc:
       "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
@@ -40,6 +40,7 @@ export const data = [
     name: "development",
     title: "Development",
     desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+    video: "development.mp4",
     photo: "dev.jpeg",
     longDesc:
       "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
@@ -75,6 +76,7 @@ export const data = [
     name: "production",
     title: "Production",
     desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+    video: "production.mp4",
     photo: "production.jpeg",
     longDesc:
       "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
@@ -110,6 +112,7 @@ export const data = [
     name: "photography",
     title: "Photography",
     desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+    video: "photography.mp4",
     photo: "photography.jpeg",
     longDesc:
       "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",

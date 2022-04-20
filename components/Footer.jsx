@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <div className={style.container}>
       <div className={style.cardL}>
-        <h1 className={style.title}>AV0CAD0 CREATIVES.</h1>
+        <h1 className={style.title}>DEVISE CREATIVES.</h1>
         <h1 className={style.linkTitle}>
           <Link href="/contact" className={style.link} passHref>
             <>
@@ -23,11 +23,11 @@ const Footer = () => {
       </div>
       <div className={style.cardS}>
         <div className={style.cardItem}>
-          45 ADAM STREET,
-          <br /> USA
+          13 BRIJ HOMES,MOHALI
+          <br /> INDIA
         </div>
         <div className={style.cardItem}>
-          CONTACT@LAMA.DEV
+          CONTACT@ABHINAV_THAPA
           <br /> 111_438_5244
         </div>
       </div>
@@ -37,7 +37,7 @@ const Footer = () => {
           <br /> __FB __IN __BE __TW
         </div>
         <div className={style.cardItem}>
-          © 2022 LAMA INTERACTIVE,
+          © 2022 ABHINAV THAPA,
           <br />
           ALL RIGHTS RESERVED
         </div>
