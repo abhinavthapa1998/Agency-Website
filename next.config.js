@@ -1,7 +1,7 @@
 module.exports = {
   reactStrictMode: true,
   images: {
-    domains: ["localhost", "images.pexels.com"],
+    domains: ["agency-website-eight.vercel.app/", "images.pexels.com"],
     loader: "imgix",
     path: "",
   },
