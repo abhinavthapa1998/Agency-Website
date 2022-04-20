@@ -74,12 +74,12 @@
 }
 
 @media screen and (max-width: 480px) {
-  .container{
+  .container {
     height: auto;
     padding: 20px;
   }
 
-  .title{
+  .title {
     margin-bottom: 40px;
     font-size: 50px;
   }

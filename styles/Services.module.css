@@ -5,12 +5,12 @@
 .title {
   width: max-content;
   font-size: 30px;
-  border-bottom: 4px solid green;
+  border-bottom: 4px solid #6c63ff;
 }
 
 .subtitle {
   font-size: 50px;
-  color: rgb(2, 71, 2);
+  color: rgb(4, 2, 71);
 }
 
 .services {

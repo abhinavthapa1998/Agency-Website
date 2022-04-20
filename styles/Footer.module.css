@@ -11,7 +11,7 @@
 .title {
   font-weight: 400;
   color: white;
-  background-color: rgba(0, 128, 0, 0.774);
+  background-color: rgba(23, 0, 128, 0.774);
   width: max-content;
   padding: 5px;
   transition: all 1s ease;
@@ -38,9 +38,9 @@
   cursor: pointer;
 }
 
-.linkText{
-    margin-right: 20px;
-    cursor: pointer;
+.linkText {
+  margin-right: 20px;
+  cursor: pointer;
 }
 
 .cardL {
@@ -68,7 +68,7 @@
     font-size: 30px;
   }
 
-  .cardItem{
+  .cardItem {
     text-align: center;
   }
 }

@@ -26,12 +26,12 @@
 }
 
 .circle1 {
-  background-color: #01c686;
+  background-color: #6c63ff;
   right: -40vh;
 }
 
 .circle2 {
-  background-color: #b0ff49;
+  background-color: #6c63ff;
   left: -50vh;
   top: -50vh;
 }
@@ -42,7 +42,7 @@
 }
 
 .brandName {
-  color: green;
+  color: #6c63ff;
 }
 
 .desc {
@@ -52,7 +52,7 @@
 
 .button {
   border: none;
-  background-color: green;
+  background-color: #6c63ff;
   color: white;
   font-weight: bold;
   padding: 20px;
@@ -63,8 +63,8 @@
 }
 
 @keyframes button {
-  to{
-    background-color: rgb(2, 63, 2);
+  to {
+    background-color: rgb(2, 20, 63);
   }
 }
 

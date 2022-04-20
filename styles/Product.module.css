@@ -32,7 +32,7 @@
 .button {
   padding: 15px;
   border: none;
-  background-color: green;
+  background-color: #6c63ff;
   color: white;
   font-size: 20px;
   border-radius: 10px;
@@ -71,7 +71,7 @@
     overflow: hidden;
   }
 
-  .cardL::before{
+  .cardL::before {
     content: "Projects";
     font-size: 50px;
     width: 100%;
