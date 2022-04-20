@@ -1,0 +1,8 @@
+.circle {
+  height: 100vh;
+  widows: 100vw;
+  border-radius: 50%;
+  position: absolute;
+  z-index: 999;
+  opacity: 0.1;
+}
