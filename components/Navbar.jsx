@@ -9,19 +9,19 @@ const Navbar = () => {
     <div className={style.container}>
       <Link href="/">DEVISE</Link>
       <ul className={style.list}>
-        <li className={style.listItem}>
+        <li className={`${style.listItem} ${style.hoverunderlineanimation}`}>
           <Link href="/products/design">DESIGN</Link>
         </li>
-        <li className={style.listItem}>
+        <li className={`${style.listItem} ${style.hoverunderlineanimation}`}>
           <Link href="/products/development">DEVELOPMENT</Link>
         </li>
-        <li className={style.listItem}>
+        <li className={`${style.listItem} ${style.hoverunderlineanimation}`}>
           <Link href="/products/production">PRODUCTION</Link>
         </li>
-        <li className={style.listItem}>
+        <li className={`${style.listItem} ${style.hoverunderlineanimation}`}>
           <Link href="/products/photography">PHOTOGRAPHY</Link>
         </li>
-        <li className={style.listItem}>
+        <li className={`${style.listItem} ${style.hoverunderlineanimation}`}>
           <Link href="/contact">CONTACT</Link>
         </li>
       </ul>
