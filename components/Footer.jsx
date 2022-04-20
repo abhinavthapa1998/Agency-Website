@@ -10,7 +10,16 @@ const Footer = () => {
         <h1 className={style.linkTitle}>
           <Link href="/contact" className={style.link} passHref>
             <>
-              <span className={style.linkText}>WORK WITH US</span>
+              <span
+                onClick={() =>
+                  window
+                    .open("https://github.com/abhinavthapa1998", "_blank")
+                    .focus()
+                }
+                className={style.linkText}
+              >
+                WORK WITH US
+              </span>
               <Image
                 src={process.env.NEXT_PUBLIC_URL + "/img/link.png"}
                 width="40px"

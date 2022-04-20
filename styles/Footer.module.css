@@ -19,13 +19,13 @@
 
 .title:hover {
   background-color: white;
-  color: rgba(0, 128, 0, 0.774);
+  color: rgba(36, 0, 128, 0.774);
 }
 
 .linkTitle {
   text-decoration: underline;
   transform-origin: left;
-  transition: all 1s ease;
+  transition: all 0.5s ease;
 }
 
 .linkTitle:hover {

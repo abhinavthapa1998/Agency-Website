@@ -56,9 +56,10 @@
   text-align: center;
   background-color: #6c63ff;
   color: white;
-  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+  font-weight: bolder;
   padding: 17px 0 17px 0;
-  border-radius: 10px;
+  border-radius: 7px;
   width: 100px;
   cursor: pointer;
   animation: button 1s ease infinite alternate;

@@ -14,7 +14,14 @@ const Intro = () => {
         <p className={style.desc}>
           Creating industry standard products for your next venture.
         </p>
-        <button className={style.button}>DISCOVER</button>
+        <button
+          onClick={() =>
+            window.open("https://github.com/abhinavthapa1998", "_blank").focus()
+          }
+          className={style.button}
+        >
+          DISCOVER
+        </button>
       </div>
       <div className={style.card}>
         <Image
