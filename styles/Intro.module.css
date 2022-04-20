@@ -53,10 +53,11 @@
 
 .button {
   border: none;
+  text-align: center;
   background-color: #6c63ff;
   color: white;
   font-weight: bold;
-  padding: 20px;
+  padding: 17px 0 17px 0;
   border-radius: 10px;
   width: 100px;
   cursor: pointer;
