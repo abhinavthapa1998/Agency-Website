@@ -7,7 +7,7 @@ const Navbar = () => {
 
   return (
     <div className={style.container}>
-      <Link href="/">AV0CAD0</Link>
+      <Link href="/">DEVISE</Link>
       <ul className={style.list}>
         <li className={style.listItem}>
           <Link href="/products/design">DESIGN</Link>
@@ -30,7 +30,11 @@ const Navbar = () => {
         <div className={style.line} />
         <div className={style.line} />
       </div>
-      <ul onClick={()=>setOpen(false)} className={style.menu} style={{ right: open ? "0px" : "-50vw" }}>
+      <ul
+        onClick={() => setOpen(false)}
+        className={style.menu}
+        style={{ right: open ? "0px" : "-50vw" }}
+      >
         <li className={style.menuItem}>
           <Link href="/">HOME</Link>
         </li>

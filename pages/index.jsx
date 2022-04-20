@@ -10,10 +10,10 @@ export default function Home({ services }) {
   return (
     <div>
       <Head>
-        <title>AV0CAD0 Digital Product Agency</title>
+        <title>DEVISE || Digital Product Agency</title>
         <meta
           name="description"
-          content="Web Design, App Development, Content Creation Agency Near Sweden"
+          content="Web Design, App Development, Content Creation Agency Near Mohali"
         />
       </Head>
       <Intro />

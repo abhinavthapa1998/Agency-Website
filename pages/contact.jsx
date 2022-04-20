@@ -4,8 +4,18 @@ import style from "../styles/Contact.module.css";
 const Contact = () => {
   return (
     <div className={style.container}>
-        <Circle backgroundColor="green" left="-40vh" top="-20vh" className={style.circle}/>
-        <Circle backgroundColor="yellow" right="-30vh" bottom="-60vh" className={style.circle}/>
+      <Circle
+        backgroundColor="blue"
+        left="-40vh"
+        top="-20vh"
+        className={style.circle}
+      />
+      <Circle
+        backgroundColor="yellow"
+        right="-30vh"
+        bottom="-60vh"
+        className={style.circle}
+      />
       <h1 className={style.title}>Get in Touch</h1>
       <form className={style.form}>
         <input className={style.inputS} type="text" placeholder="Name" />

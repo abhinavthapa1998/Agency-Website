@@ -5,7 +5,8 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  font-size: 18px;
+  font-size: 27px;
+  font-family: "Bebas Neue", sans-serif;
   padding: 0px 100px;
   position: relative;
   overflow: hidden;
@@ -14,8 +15,8 @@
 .listItem {
   display: inline;
   margin-right: 30px;
-  font-size: 14px;
-  /* font-weight: 300; */
+  font-family: "Poppins", sans-serif;
+  font-size: 17px;
   color: lightgray;
   cursor: pointer;
 }

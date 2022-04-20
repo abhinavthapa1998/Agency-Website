@@ -11,11 +11,11 @@ export const data = [
     images: [
       {
         id: 1,
-        url: "https://images.pexels.com/photos/962000/pexels-photo-962000.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       },
       {
         id: 2,
-        url: "https://images.pexels.com/photos/6489663/pexels-photo-6489663.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://images.pexels.com/photos/1005644/pexels-photo-1005644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       },
       {
         id: 3,
@@ -51,7 +51,7 @@ export const data = [
       },
       {
         id: 2,
-        url: "https://images.pexels.com/photos/9716799/pexels-photo-9716799.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       },
       {
         id: 3,
@@ -63,11 +63,11 @@ export const data = [
       },
       {
         id: 5,
-        url: "https://images.pexels.com/photos/5262378/pexels-photo-5262378.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       },
       {
         id: 6,
-        url: "https://images.pexels.com/photos/9796405/pexels-photo-9796405.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       },
     ],
   },
@@ -150,7 +150,7 @@ export const users = [
     id: 1,
     logo: "yahoo.png",
     avatar: "user1.jpeg",
-    comment: "Some of the best developers I have seen in the industry",
+    comment: "Some of the best developers I have seen in the industry.",
     name: "Harold Brown",
     title: "Executive Manager",
   },
@@ -159,7 +159,7 @@ export const users = [
     logo: "google.png",
     avatar: "user2.jpeg",
     comment:
-      "The level of professionalism is unmatched. Highly recommend Devise.",
+      "Their level of professionalism is unmatched. Highly recommend DEVISE.",
     name: "Anna Taylor",
     title: "HR Manager",
   },

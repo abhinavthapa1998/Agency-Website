@@ -5,10 +5,8 @@ import Circle from "./Circle";
 const Intro = () => {
   return (
     <div className={style.container}>
-      {/* <div className={`${style.circle} ${style.circle1}`} />
-      <div className={`${style.circle} ${style.circle2}`} /> */}
-      <Circle backgroundColor="#01c686" top="-45vh" left="-45vh" />
-      {/* <Circle backgroundColor="#01c686" right="-40vh" /> */}
+      <Circle backgroundColor="#6C63FF" top="-45vh" left="-45vh" />
+
       <div className={style.card}>
         <h1 className={style.title}>
           <span className={style.brandName}>DEVISE</span> DIGITAL PRODUCT AGENCY
